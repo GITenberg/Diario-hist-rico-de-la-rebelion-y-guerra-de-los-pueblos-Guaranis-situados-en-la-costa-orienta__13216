@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '4927'
     url: http://www.gutenberg.org/2009/agents/4927
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13216#Diario-hist-rico-de-la-rebelion-y-guerra-de-los-pueblos-Guaranis-situados-en-la-costa-orienta_
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2004-08-18'
 gutenberg_type: Text
